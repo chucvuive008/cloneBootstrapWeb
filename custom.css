@@ -1,0 +1,80 @@
+html,body
+{
+    height: 100%;
+}
+
+#cover {
+    background: #222 url('../img/stars.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption
+{
+    width:100%;
+}
+
+#form_center
+{
+    display: inline-flex;
+}
+
+html, body, .carousel,  .carousel-inner, .carousel-inner .item {
+   height: 100%;
+}
+
+#what-we-do
+{
+    padding-top: 20px;
+}
+s
+.card-img-top{
+    padding-top: 10px;
+}
+
+.card-title, .card-subtitle
+{
+    text-align: center;
+}
+
+.card-group
+{
+    padding-top: 25px;
+}
+
+.section-content {
+    padding: 5rem 0;
+}
+
+#about
+{
+    background: url(../img/girlincar.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.about-text
+{
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 30px;
+}
+
+#newsBlue, #newsBlue .blockquote-footer
+{
+    color: white;
+}
+
+#footer-main {
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+    margin-top: 5rem;
+}
+
+
+
